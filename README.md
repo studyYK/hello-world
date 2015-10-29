@@ -13,3 +13,7 @@ Branching is the way to work on different parts of a repository at one time.![](
 
 ## Commit
 On GitHub, **saved changes** are called commits.
+
+## workflow
+1. first create an brance
+2. pull request
